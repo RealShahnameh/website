@@ -1,0 +1,49 @@
+Real - REAL Full Data Information
+
+Project name:
+
+Crypto name:
+
+Crypto symbol/ticker:
+
+Token description:
+
+Token image link:
+
+Email address:
+
+How to bring new users to your project:
+
+Founders' Contact info(TG/Email) - Prefer TG:
+
+PitchDeck link [Gitbook]:
+
+the link to Twitter:
+
+official website:
+
+links of three core team member [ name,background,linkedin, and twitter ]:
+
+1.[ name,background,linkedin, and twitter ]
+2.[ name,background,linkedin, and twitter ]
+3.[ name,background,linkedin, and twitter ]
+
+Coin Contract link if Token Launched:
+If not we can provide.
+
+Tokenomics spreadsheet links[Gitbbok]:
+
+Investor list:
+
+Real - REAL requirements
+1. TVL must be at least 2000 TON in pair with TON or USDT.
+2. Ownership for a token contract must be revoked.
+3. The project must have a Telegram channel or Twitter account.
+
+https://verifier.ton.org/ - Verification Proof:
+
+Liquidity Contract TVL require 2000 TON [REAL/TON][REAL/USDT]:
+
+
+
+ 

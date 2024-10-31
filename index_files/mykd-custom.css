@@ -1,0 +1,88 @@
+/* Search results  CSS */
+.search-results .blog-post-item.type-product {
+    max-width: 800px;
+}
+.search-results .blog-post-item.type-product .blog-content:not(.blog-details-content) .post-text {
+    margin: 0 0;
+}
+.search-results .blog-post-item.type-product .blog-content .post-text p {
+    margin: 0 0;
+}
+.search-results .blog-post-item.type-product .blog-content .title {
+    margin-bottom: 15px;
+}
+.mc4wp-alert {
+    margin: 20px 0 10px;
+}
+.mc4wp-alert p {
+    margin: 0 0;
+}
+.mc4wp-success p {
+    color: var(--unit-primary-color);
+}
+
+/* Elementor Custom CSS */
+.mykd-menu-not-showing {
+    padding: 25px 0 !important;
+}
+.banner__btn.left {
+    justify-content: flex-start;
+}
+.banner__btn.center {
+    justify-content: center;
+}
+.banner__btn.right {
+    justify-content: flex-end;
+}
+.tinv-wishlist .tinv-modal .tinv-modal-inner {
+    background-color: #171d24;
+}
+.product__desc-wrap .tab-content table.shop_attributes td p {
+    padding: 0 0;
+}
+.elementor-221 .elementor-element.elementor-element-32d39b6 .tg-btn-3 {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    padding: 19px 30px;
+    min-width: 158px;
+}
+.title-after-none .section__title::after {
+    display: none;
+}
+.page-id-605 .breadcrumb__wrapper {
+    padding: 0 0;
+}
+.tournament__details-form .wpcf7-not-valid-tip {
+    margin: 0 0 10px;
+}
+.hfe-site-logo > a {
+    display: inline-block;
+}
+
+/* Elementor Responsive */
+@media (max-width: 1800px) {
+
+}
+@media (max-width: 1199.98px) {
+.elementor-77 .elementor-element.elementor-element-acaa84b {
+    position: relative;
+}
+
+}
+
+@media (max-width: 991.98px){
+.elementor-icon-list-text br {
+    display: none;
+}
+
+}
+
+@media (max-width: 767.98px) {
+.elementor-649 .elementor-element.elementor-element-ebd7309 .section__title::after,
+.elementor-415 .elementor-element.elementor-element-860b3d4 .section__title::after {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+}
